@@ -1,0 +1,2 @@
+Data structures and algorithms work together.
+Efficient search depends on good indexing.

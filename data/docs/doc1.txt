@@ -1,0 +1,2 @@
+Algorithms are fundamental to computer science.
+Sorting and searching are basic algorithms.

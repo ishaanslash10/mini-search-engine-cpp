@@ -1,0 +1,2 @@
+Search engines use indexing algorithms.
+Ranking algorithms determine relevance.
